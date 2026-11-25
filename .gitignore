@@ -1,0 +1,12 @@
+# Local and temporary Word files
+~$*
+*.tmp
+*.wbk
+*.bak
+
+# Local application state and downloads
+.codex/
+.env
+*.log
+__pycache__/
+vendor/
